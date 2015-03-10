@@ -1,0 +1,9 @@
+C:\Work\git\FluentBloomberg\src\BloombergAPI.Tests\bin\Debug\BloombergAPI.Tests.dll
+C:\Work\git\FluentBloomberg\src\BloombergAPI.Tests\bin\Debug\BloombergAPI.Tests.pdb
+C:\Work\git\FluentBloomberg\src\BloombergAPI.Tests\bin\Debug\BloombergApi.dll
+C:\Work\git\FluentBloomberg\src\BloombergAPI.Tests\bin\Debug\Bloomberglp.Blpapi.dll
+C:\Work\git\FluentBloomberg\src\BloombergAPI.Tests\bin\Debug\BloombergApi.pdb
+C:\Work\git\FluentBloomberg\src\BloombergAPI.Tests\bin\Debug\Bloomberglp.Blpapi.xml
+C:\Work\git\FluentBloomberg\src\BloombergAPI.Tests\obj\Debug\BloombergAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Work\git\FluentBloomberg\src\BloombergAPI.Tests\obj\Debug\BloombergAPI.Tests.dll
+C:\Work\git\FluentBloomberg\src\BloombergAPI.Tests\obj\Debug\BloombergAPI.Tests.pdb
